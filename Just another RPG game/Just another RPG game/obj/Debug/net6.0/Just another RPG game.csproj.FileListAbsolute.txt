@@ -1,0 +1,17 @@
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\bin\Debug\net6.0\Just another RPG game.exe
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\bin\Debug\net6.0\Just another RPG game.deps.json
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\bin\Debug\net6.0\Just another RPG game.runtimeconfig.json
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\bin\Debug\net6.0\Just another RPG game.dll
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\bin\Debug\net6.0\Just another RPG game.pdb
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\obj\Debug\net6.0\Just another RPG game.csproj.AssemblyReference.cache
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\obj\Debug\net6.0\Just another RPG game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\obj\Debug\net6.0\Just another RPG game.AssemblyInfoInputs.cache
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\obj\Debug\net6.0\Just another RPG game.AssemblyInfo.cs
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\obj\Debug\net6.0\Just another RPG game.csproj.CoreCompileInputs.cache
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\obj\Debug\net6.0\Just another RPG game.dll
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\obj\Debug\net6.0\refint\Just another RPG game.dll
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\obj\Debug\net6.0\Just another RPG game.pdb
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\obj\Debug\net6.0\Just another RPG game.genruntimeconfig.cache
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\obj\Debug\net6.0\ref\Just another RPG game.dll
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jiofef\source\repos\Just another RPG game\Just another RPG game\obj\Debug\net6.0\Just another RPG game.csproj.CopyComplete

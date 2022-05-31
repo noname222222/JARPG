@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DmsVXWkBj7GsCmHpaWeJFmVxn1I+hP5ifcP+DLeZYQTJVEy0IznmZ6ajFAuXu0I/SPX8jt2QITXSWG76QedHKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jiofef\\source\\repos\\Just another RPG game\\Just another RPG game\\Just another RPG game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jiofef\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
